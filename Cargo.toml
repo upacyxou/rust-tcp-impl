@@ -1,0 +1,9 @@
+[package]
+name = "my-tco"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+etherparse = "0.17.0"
+tun = "0.7.13"
+tun-tap = "0.1.4"
