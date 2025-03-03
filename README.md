@@ -1,2 +1,4 @@
 # rust-tcp-impl
-Apple Sillicon-specific TCP implementation
+Not ready, just toy project
+
+Apple Sillicon-specific TCP implementation.
